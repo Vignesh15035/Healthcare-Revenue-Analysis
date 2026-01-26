@@ -21,7 +21,7 @@ Key Analysis & Insights
 
 Power BI Dashboard Features
 
-Clean and professional one-page layout
-KPI cards for quick insights
-Interactive filters and slicers
-Consistent hospital-themed green color design
+* Clean and professional one-page layout
+* KPI cards for quick insights
+* Interactive filters and slicers
+* Consistent hospital-themed green color design
