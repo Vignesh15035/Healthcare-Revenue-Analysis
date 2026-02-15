@@ -1,27 +1,21 @@
-Hospital Patients & Revenue Analytics
+🏥 Healthcare Revenue Analysis Dashboard
+
+A data analytics project focused on analyzing hospital revenue performance using SQL and Power BI.
+The dashboard provides insights into revenue drivers across hospitals, doctors, medical conditions, insurance providers, and patient demographics.
+
 📌 Project Overview
 
-This project focuses on analyzing hospital patient data and revenue performance using an end-to-end data analytics workflow. The goal is to generate clear insights for decision-making through data cleaning, SQL analysis, and interactive Power BI dashboards.
-The project demonstrates practical skills in data analytics, business intelligence, and visualization, suitable for real-world healthcare analytics scenarios.
+*The goal of this project is to:
+*Identify key revenue sources in healthcare
+*Analyze performance across hospitals and locations
+*Understand revenue trends by admission type and medical condition
+*Evaluate insurance contribution to total revenue
+*Highlight top-performing doctors and hospitals
+*This project simulates a real-world healthcare finance analytics system.
 
-🛠️ Tools & Technologies Used
+🛠 Tools & Technologies
 
-Python – Data cleaning and preprocessing
-MySQL – Data querying and analysis
-Power BI – Data modeling, DAX measures, and dashboard creation
-Excel – Initial data inspection (if required)
+*SQL → Data cleaning & revenue analysis queries
+*Power BI → Interactive dashboard visualization
+*Excel / CSV dataset → Healthcare records dataset
 
-Key Analysis & Insights
-
-* Total patients and total revenue overview
-* Patient trends by admission date
-* Revenue contribution by department
-* Average revenue per patient
-* Identification of high-performing departments
-
-Power BI Dashboard Features
-
-* Clean and professional one-page layout
-* KPI cards for quick insights
-* Interactive filters and slicers
-* Consistent hospital-themed green color design
